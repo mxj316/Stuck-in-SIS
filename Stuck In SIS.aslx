@@ -609,7 +609,7 @@
           AddToInventory (FRCH 404)
         }
         else {
-          msg ("Classe a Chuté. J'espere que tu sais que tu as fait tu lapin.")
+          msg ("Classe a Chute. J'espere que tu sais que tu as fait tu lapin.")
           player.num_classes = player.num_classes -1
         }
       </ondrop>
